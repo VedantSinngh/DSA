@@ -21,11 +21,3 @@ Explore different sorting, searching, and other algorithms. Each algorithm is ex
 ## Data Structures
 
 Learn about different data structures such as linked lists, stacks, and queues. Each data structure is explained and implemented in a separate file.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request if you have any suggestions or improvements.
-
-## License
-
-This repository is licensed under the MIT License.
