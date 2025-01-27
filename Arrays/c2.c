@@ -1,5 +1,5 @@
 #include <stdio.h>
-// using namespace std;
+// using namespace std;0
 
 int main() {
     int A[5];
